@@ -20,7 +20,7 @@
     "nodemon": "^1.18.9"
   },
   "dependencies": {
-    "dotenv": "^6.2.0",
+    "dotenv": "^7.0.0",
     "uuid": "^3.3.2"
   }
 }
