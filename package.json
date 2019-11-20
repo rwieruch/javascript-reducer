@@ -17,7 +17,7 @@
     "@babel/register": "^7.4.0",
     "chai": "^4.2.0",
     "mocha": "^6.1.4",
-    "nodemon": "^1.18.9"
+    "nodemon": "^2.0.0"
   },
   "dependencies": {
     "dotenv": "^7.0.0",
