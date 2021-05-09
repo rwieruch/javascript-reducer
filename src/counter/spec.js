@@ -2,7 +2,7 @@ import { expect } from 'chai';
 
 import counterReducer from './';
 
-describe('person reducer', () => {
+describe('counter reducer', () => {
   it('increases the counter (given same input we can always expect same output)', () => {
     expect(counterReducer(0, { type: 'INCREASE' })).to.equal(1);
     expect(counterReducer(0, { type: 'INCREASE' })).to.equal(1);
